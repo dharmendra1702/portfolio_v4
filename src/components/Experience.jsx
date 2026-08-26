@@ -6,7 +6,7 @@ const up = (d=0) => ({ hidden:{ y:40,opacity:0 }, visible:{ y:0,opacity:1,transi
 const EXP = [
   {
     role:'Systems Engineer', co:'Tata Consultancy Services', short:'TCS',
-    period:'Apr 2026 – Present', loc:'Hyderabad', current:true,
+    period:'Apr 2026 – Present', loc:'Bengaluru', current:true,
     points:[
       'Enterprise training in Python, Cloud technologies, and Full-Stack development.',
       'Active in Agile delivery — sprint planning, stand-ups, and retrospectives.',

@@ -5,7 +5,7 @@ const LINES = [
   '> loading: dharmendra_reddy_ms',
   '> role: systems_engineer @ TCS',
   '> stack: java · python · django · ai/ml',
-  '> location: hyderabad, india',
+  '> location: Bengaluru, india',
   '> status: open_to_opportunities',
   '> boot complete ████████████ 100%',
 ];

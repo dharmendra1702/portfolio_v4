@@ -54,7 +54,7 @@ export default function Hero() {
         <motion.div variants={fadeUp(0.3)} initial="hidden" animate="visible"
           style={{ display:'flex', alignItems:'center', gap:10, marginBottom:44 }}>
           <span style={{ width:7,height:7,borderRadius:'50%',background:'var(--green)',boxShadow:'0 0 8px var(--green)',animation:'pulse 2s infinite',flexShrink:0 }} />
-          <span className="label" style={{ color:'var(--gray-5)' }}>Available · Systems Engineer @ TCS, Hyderabad</span>
+          <span className="label" style={{ color:'var(--gray-5)' }}>Available · Systems Engineer @ TCS, Bengaluru</span>
         </motion.div>
 
         {/* Main title */}

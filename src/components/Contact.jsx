@@ -18,7 +18,7 @@ const METHODS = [
   { label:'Phone',    val:'+91 96112 41651',                                  href:'tel:+919611241651' },
   { label:'LinkedIn', val:'linkedin.com/in/dharmendra-reddy-m-s',             href:'https://www.linkedin.com/in/dharmendra-reddy-m-s-8289211b1/' },
   { label:'GitHub',   val:'github.com/dharmendra1702',                        href:'https://github.com/dharmendra1702' },
-  { label:'Location', val:'Hyderabad, Telangana, India',                      href:null },
+  { label:'Location', val:'Bengaluru, Karnataka, India',                      href:null },
 ];
 
 const inputStyle = {

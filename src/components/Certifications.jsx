@@ -13,6 +13,24 @@ import { motion, useInView, AnimatePresence } from 'framer-motion';
 // Sorted newest → oldest
 const CERTS = [
   {
+  num: '01',
+  name: 'Databricks Certified Generative AI Engineer Associate',
+  issuer: 'Databricks',
+  year: '2026',
+  color: '#1E88E5',
+  img: '/certs/databricks gen ai.webp',
+  url: 'https://credentials.databricks.com/678b2fa2-37d8-42bd-ade9-5e553ee96b13',
+},
+  {
+    num: '01',
+    name: 'Claude Certified Architect - Foundations',
+    issuer: 'Anthropic',
+    year: '2026',
+    color: '#22c55e',
+    img: '/certs/claude.webp',
+    url: 'https://www.credly.com/badges/b0a0414d-a125-4815-8754-cf6a8587c9ec/linked_in?t=tjdor5',
+  },
+  {
     num: '01',
     name: 'Full Stack Java Development',
     issuer: 'Kodnest Technologies',

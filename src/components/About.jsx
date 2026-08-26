@@ -49,7 +49,7 @@ export default function About() {
             <p style={{ fontFamily:'var(--fb)', fontSize:'1.05rem', color:'var(--gray-5)', lineHeight:1.85, marginBottom:48, maxWidth:560 }}>
               I currently work as a{' '}
               <strong style={{ color:'var(--white)', fontWeight:500 }}>Systems Engineer at TCS</strong>
-              {' '}in Hyderabad. Before TCS, I interned at three companies — AI/ML Intern at Rooman Technologies,
+              {' '}in Bengaluru. Before TCS, I interned at three companies — AI/ML Intern at Rooman Technologies,
               Full-Stack Java Developer at Kodnest, and Web Development Intern at Rail Wheel Factory.
             </p>
             <div className="values-grid">
@@ -77,7 +77,7 @@ export default function About() {
               <div style={{ position:'absolute', bottom:0, left:0, right:0, height:2, background:'var(--amber)' }} />
             </div>
             <div style={{ marginTop:14, fontFamily:'var(--fm)', fontSize:'0.66rem', color:'var(--gray-5)', letterSpacing:'0.08em' }}>
-              Dharmendra Reddy M S — Hyderabad, 2025
+              Dharmendra Reddy M S — Bengaluru, 2025
             </div>
           </motion.div>
         </div>

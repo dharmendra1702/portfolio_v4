@@ -53,7 +53,7 @@ export default function Footer() {
               {[
                 ['dharmu17reddy@gmail.com',                 'mailto:dharmu17reddy@gmail.com'],
                 ['+91 96112 41651',                         'tel:+919611241651'],
-                ['Hyderabad, Telangana',                    '#'],
+                ['Bengaluru, Karnataka',                    '#'],
                 ['linkedin.com/in/dharmendra-reddy-m-s',   'https://www.linkedin.com/in/dharmendra-reddy-m-s-8289211b1/'],
               ].map(([val, href]) => (
                 <a key={val} href={href}
@@ -71,7 +71,7 @@ export default function Footer() {
 
         <div style={{ borderTop:'1px solid var(--gray-3)', paddingTop:24, display:'flex', justifyContent:'space-between', alignItems:'center', flexWrap:'wrap', gap:10 }}>
           <span style={{ fontFamily:'var(--fm)', fontSize:'0.68rem', color:'var(--gray-4)', letterSpacing:'0.06em' }}>
-            © 2025 Dharmendra Reddy M S · Hyderabad, India
+            © 2025 Dharmendra Reddy M S · Bengaluru, India
           </span>
           <span style={{ fontFamily:'var(--fm)', fontSize:'0.68rem', color:'var(--gray-4)', letterSpacing:'0.06em' }}>
             Built with React · Vite · Framer Motion
