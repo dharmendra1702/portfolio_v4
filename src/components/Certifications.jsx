@@ -13,83 +13,83 @@ import { motion, useInView, AnimatePresence } from 'framer-motion';
 // Sorted newest → oldest
 const CERTS = [
   {
-  num: '01',
-  name: 'Databricks Certified Generative AI Engineer Associate',
-  issuer: 'Databricks',
-  year: '2026',
-  color: '#1E88E5',
-  img: '/certs/databricks gen ai.webp',
-  url: 'https://credentials.databricks.com/678b2fa2-37d8-42bd-ade9-5e553ee96b13',
-},
-  {
     num: '01',
+    name: 'Databricks Certified Generative AI Engineer Associate',
+    issuer: 'Databricks',
+    year: '2026',
+    color: '#FF3621', // Databricks red-orange
+    img: '/certs/databricks gen ai.webp',
+    url: 'https://credentials.databricks.com/678b2fa2-37d8-42bd-ade9-5e553ee96b13',
+  },
+  {
+    num: '02',
     name: 'Claude Certified Architect - Foundations',
     issuer: 'Anthropic',
     year: '2026',
-    color: '#22c55e',
+    color: '#DA7756', // Anthropic clay
     img: '/certs/claude.webp',
     url: 'https://www.credly.com/badges/b0a0414d-a125-4815-8754-cf6a8587c9ec/linked_in?t=tjdor5',
   },
   {
-    num: '01',
+    num: '03',
     name: 'Full Stack Java Development',
     issuer: 'Kodnest Technologies',
     year: '2026',
-    color: '#22c55e',
+    color: '#FBBF24', // amber
     img: '/certs/kodnest.webp',
     url: '#',
   },
   {
-    num: '02',
+    num: '04',
     name: 'AI ML Engineer Training',
     issuer: 'Rooman Technologies',
     year: '2025',
-    color: '#FF6B00',
+    color: '#22C55E', // green
     img: '/certs/rooman.webp',
     url: '#',
   },
   {
-    num: '03',
+    num: '05',
     name: 'Cyber Security — Certificate of Recognition',
     issuer: 'Redington Foundation & ICT Academy',
     year: '2024',
-    color: '#10b981',
+    color: '#14B8A6', // teal
     img: '/certs/redington-cyber.webp',
     url: '#',
   },
   {
-    num: '04',
+    num: '06',
     name: 'Google Cybersecurity Certificate',
     issuer: 'Coursera — Google',
     year: '2024',
-    color: '#3b82f6',
+    color: '#3B82F6', // blue
     img: '/certs/google-cyber.webp',
     url: 'https://www.credly.com/go/uPm5Iwth',
   },
   {
-    num: '05',
+    num: '07',
     name: 'Generative AI Virtual Internship',
     issuer: 'Skillible — AICTE',
     year: '2024',
-    color: '#8b5cf6',
+    color: '#8B5CF6', // violet
     img: '/certs/skillible.webp',
     url: '#',
   },
   {
-    num: '06',
+    num: '08',
     name: 'Learnathon 2023 — Certificate of Participation',
     issuer: 'ICT Academy',
     year: '2023',
-    color: '#f97316',
+    color: '#F97316', // orange
     img: '/certs/ict-learnathon.webp',
     url: '#',
   },
   {
-    num: '07',
+    num: '09',
     name: 'The Complete Digital Marketing Course',
     issuer: 'Udemy',
     year: '2023',
-    color: '#ec4899',
+    color: '#EC4899', // pink
     img: '/certs/udemy-dm.webp',
     url: 'https://ude.my/UC-6db7816c-b0a0-4f18-aa83-7d1cd8083112',
   },
